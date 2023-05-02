@@ -13,4 +13,7 @@ Desarrollo de una aplicación híbrida para **gestionar cualquier restaurante** 
 - ***Tecnologías conjuntas:*** Firebase (Firestore & Authentication).
 - ***Exportación de datos:*** Python (Pandas), PowerBI...
 
+### Exportación de datos y creación de informe
+Se sacará información en formato .CSV de las comandas almacenadas, y se con estos se creará un informe usando Power BI que se subirá al repositorio y se compartirá con el correo del profesorado en cuestión.
+
 La base de datos que vamos a utilizar es **Firestore** de *Firebase*, que es una base de datos NoSQL alojada en los servidores de Google.
