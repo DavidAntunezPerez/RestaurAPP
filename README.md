@@ -17,3 +17,6 @@ Desarrollo de una aplicación híbrida para **gestionar cualquier restaurante** 
 Se sacará información en formato .CSV de las comandas almacenadas, y con estos se creará un informe usando Power BI, que se subirá al repositorio y se compartirá con el correo del profesorado en cuestión.
 
 La base de datos que vamos a utilizar es **Firestore** de *Firebase*, que es una base de datos NoSQL alojada en los servidores de Google.
+
+### Enlace a los repositorios de desarrollo del producto:
+[Enlace a la aplicación móvil](https://github.com/DavidAntunezPerez/RestaurAPP_Android)
