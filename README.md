@@ -19,11 +19,13 @@ Se sacará información en formato .CSV de las comandas almacenadas, y con estos
 La base de datos que vamos a utilizar es **Firestore** de *Firebase*, que es una base de datos NoSQL alojada en los servidores de Google.
 
 ### Enlace a los repositorios de desarrollo del producto:
-[Enlace a la aplicación móvil](https://github.com/DavidAntunezPerez/RestaurAPP_Android)
+[Enlace a la aplicación móvil](https://github.com/DavidAntunezPerez/RestaurAPP_Android) 
+
 [Enlace a la aplicación web](https://github.com/AleCueto/restauraap)
 
 
 ### Checkpoint:
 Videos:
 ------
+
 [![Enlace al video del checkpoint de la versión web de la app](https://img.youtube.com/vi/qk3atJxrR8Q/0.jpg)](https://youtu.be/qk3atJxrR8Q)
