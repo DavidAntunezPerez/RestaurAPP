@@ -20,7 +20,7 @@ La base de datos que vamos a utilizar es **Firestore** de *Firebase*, que es una
 
 ### Enlace a los repositorios de desarrollo del producto:
 [Enlace a la aplicación móvil](https://github.com/DavidAntunezPerez/RestaurAPP_Android) 
-
+<br />
 [Enlace a la aplicación web](https://github.com/AleCueto/restauraap)
 
 
