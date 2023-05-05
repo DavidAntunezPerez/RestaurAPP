@@ -23,9 +23,8 @@ La base de datos que vamos a utilizar es **Firestore** de *Firebase*, que es una
 <br />
 [Enlace a la aplicación web](https://github.com/AleCueto/restauraap)
 
-
-### Checkpoint:
-Videos:
 ------
+### Checkpoint:
+- Videos:
 
 [![Enlace al video del checkpoint de la versión web de la app](https://img.youtube.com/vi/qk3atJxrR8Q/0.jpg)](https://youtu.be/qk3atJxrR8Q)
