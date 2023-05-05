@@ -27,4 +27,6 @@ La base de datos que vamos a utilizar es **Firestore** de *Firebase*, que es una
 ### Checkpoint:
 - Videos:
 
-[![Enlace al video del checkpoint de la versión web de la app](https://img.youtube.com/vi/qk3atJxrR8Q/0.jpg)](https://youtu.be/qk3atJxrR8Q)
+[![Enlace al video del checkpoint de la versión web de la APP](https://img.youtube.com/vi/qk3atJxrR8Q/0.jpg)](https://youtu.be/qk3atJxrR8Q)
+[![Enlace al video del checkpoint de la versión nativa de la APP](https://img.youtube.com/vi/TglliNpZSkU/0.jpg)](https://youtu.be/TglliNpZSkU)
+
