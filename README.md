@@ -2,9 +2,12 @@
 Proyecto fin de ciclo 2º DAM 22/23. Realizada por **David Antúnez Pérez** y **Alejandro Cueto Jiménez** en el centro CPIFP Nuevo (desglose IES Campanillas). 
 
 ![image](./images/restaurapp_android.png)
+
 Native App Official Logo
 
+
 ![image](./images/restaurapp_web.png)
+
 Hybrid App Official Logo
 
 ## Anteproyecto
