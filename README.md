@@ -1,14 +1,14 @@
 # RestaurAPP
 Proyecto fin de ciclo 2º DAM 22/23. Realizada por **David Antúnez Pérez** y **Alejandro Cueto Jiménez** en el centro CPIFP Nuevo (desglose IES Campanillas). 
 
-Hybrid App Official Logo
 <p align="center">
-   <img src="./images/restaurapp_web.png" >
+   <img src="./images/restaurapp_web.png">
+   <div align="center"> Hybrid App Official Logo </div>
 </p>
 
-Native App Official Logo
 <p align="center">
-  <img src="./images/restaurapp_android.png" >
+   <img src="./images/restaurapp_android.png" >
+   <div align="center"> Native App Official Logo </div>
 </p>
 
 ## Anteproyecto
